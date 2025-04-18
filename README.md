@@ -23,7 +23,7 @@ This web-based application empowers you to effortlessly manipulate images. Wheth
 **Experience the Magic with a Live Demo & try it yourself**
 
 🌟 Click here to explore the [live demo](https://youtu.be/Xtum2G6nrKg).<br>
-🌟 [Check out the website](https://nandrabadiya.github.io/Image-Processor/).
+<!-- 🌟 [Check out the website](https://nandrabadiya.github.io/Image-Processor/) -->
 
 **Technology Used:**
 
